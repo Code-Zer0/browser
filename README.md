@@ -4,7 +4,7 @@
 https://www.microsoft.com/en-us/download/details.aspx?id=42643
 2. Latest Internet Explorer.
 https://www.microsoft.com/en-us/download/Internet-Explorer-11-for-Windows-7-details.aspx
-3. Visual Studio 2015 or latest to open the source code.
+3. Visual Studio 2015 or latest to open the source code (OPTIONAL).
 https://www.visualstudio.com
                            
                             
