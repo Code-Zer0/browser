@@ -1,0 +1,8 @@
+C:\Users\BOY ALON\Documents\Visual Studio 2017\Projects\Glenn Browser\Glenn Browser\bin\Release\Glenn Browser.exe.config
+C:\Users\BOY ALON\Documents\Visual Studio 2017\Projects\Glenn Browser\Glenn Browser\bin\Release\Glenn Browser.exe
+C:\Users\BOY ALON\Documents\Visual Studio 2017\Projects\Glenn Browser\Glenn Browser\bin\Release\Glenn Browser.pdb
+C:\Users\BOY ALON\Documents\Visual Studio 2017\Projects\Glenn Browser\Glenn Browser\obj\Release\Glenn_Browser.Form1.resources
+C:\Users\BOY ALON\Documents\Visual Studio 2017\Projects\Glenn Browser\Glenn Browser\obj\Release\Glenn_Browser.Properties.Resources.resources
+C:\Users\BOY ALON\Documents\Visual Studio 2017\Projects\Glenn Browser\Glenn Browser\obj\Release\Glenn Browser.csproj.GenerateResource.Cache
+C:\Users\BOY ALON\Documents\Visual Studio 2017\Projects\Glenn Browser\Glenn Browser\obj\Release\Glenn Browser.exe
+C:\Users\BOY ALON\Documents\Visual Studio 2017\Projects\Glenn Browser\Glenn Browser\obj\Release\Glenn Browser.pdb
